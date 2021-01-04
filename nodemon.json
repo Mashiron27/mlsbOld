@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_USR": "admin",
+        "MONGO_ATLAS_PWD": "admin",
+        "JWT_KEY": "secret"
+    }
+}
